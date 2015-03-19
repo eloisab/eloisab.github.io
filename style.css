@@ -1,0 +1,21 @@
+/*
+	Eloisa Baez Jones
+	personal website 2014
+	css
+*/
+#nav {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#nav li {
+	background: #f1f1f1;
+	display: inline;
+}
+#nav a {
+	text-decoration: none;
+}
+#nav a:hover {
+	text-decoration: underline;
+	color: #CC8C1E;
+}
